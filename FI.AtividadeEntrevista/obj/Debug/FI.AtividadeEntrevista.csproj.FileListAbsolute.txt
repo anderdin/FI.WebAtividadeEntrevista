@@ -1,0 +1,12 @@
+C:\Users\ander\OneDrive\Área de Trabalho\Teste Função soluctions\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Teste Função soluctions\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Teste Função soluctions\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Teste Função soluctions\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Teste Função soluctions\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Teste Função soluctions\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\tf\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ander\OneDrive\Área de Trabalho\tf\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\tf\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\tf\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\tf\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ander\OneDrive\Área de Trabalho\tf\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
